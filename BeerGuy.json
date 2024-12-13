@@ -1,12 +1,12 @@
 {
-name:"BeerGuy"
-symbol:"BeG"
-description:"Drink beer and chill"
-image:"https://coral-tremendous-chimpanzee-260.mypinata.cloud/ipfs/bafkreicbfake7x7bjgwhmovdzzdyj4avi2dhnlte7qojomndpk5sn3klxe"
-showName:true
-twitter:"https://x.com/ChillGuy2SOL"
-telegram:"https://t.me/chillguySol_En"
-website:"https://www.chillguy.io/"
-discord:"https://discord.gg/x4WDNFeM"
-createdOn:"Pump.fun"
+"name": "BeerGuy",
+"symbol": "BeG",
+"description": "Drink beer and chill",
+"image": "https://coral-tremendous-chimpanzee-260.mypinata.cloud/ipfs/bafkreicbfake7x7bjgwhmovdzzdyj4avi2dhnlte7qojomndpk5sn3klxe",
+"showName":true,
+"twitter":"https://x.com/ChillGuy2SOL",
+"telegram":"https://t.me/chillguySol_En",
+"website":"https://www.chillguy.io/",
+"discord":"https://discord.gg/x4WDNFeM",
+"createdOn":"Pump.fun"
 }
